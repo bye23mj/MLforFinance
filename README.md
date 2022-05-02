@@ -1,7 +1,7 @@
-github:https://gitlab.com/inspro9/hanbit_mlfi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hahnsangkim/hanbit_mlfi/main)
 
 # Machine Learning and Data Science Blueprints for Finance - Jupyter Notebooks
+github:https://gitlab.com/inspro9/hanbit_mlfi
 
 This github repository contains the code to the case studies in the O'Reilly book *Machine Learning and Data
 Science Blueprints for Finance*
